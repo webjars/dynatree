@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>dynatree</artifactId>
-    <version>1.2.5-SNAPSHOT</version>
+    <version>1.2.5</version>
     <name>Dynatree</name>
     <description>WebJar for Dynatree</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/dynatree</url>
         <connection>scm:git:https://github.com/webjars/dynatree.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/dynatree.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>dynatree-1.2.5</tag>
     </scm>
     
     <dependencies>
